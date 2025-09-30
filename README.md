@@ -1,4 +1,4 @@
-# GeogebraPhysicEngine
-- _Sorry poor English_
+# GeogebraPhysicEngine :D
+- _Sorry poor English :) _
 - I wanna simulate eletric field with Geogebra.
 - Acordding to my test,please open with ggb5 to get it smoothy.
